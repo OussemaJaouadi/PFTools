@@ -1,0 +1,10 @@
+argparse
+pyjwt
+tqdm
+colorama
+pyfiglet
+base64
+flask
+logging
+requests
+hashlib
